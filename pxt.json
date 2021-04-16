@@ -5,7 +5,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.4.2",
+        "Huskylens": "github:dfrobot/pxt-dfrobot_huskylens#v2.0.2"
     },
     "files": [
         "README.md",
